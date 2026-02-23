@@ -1,0 +1,18 @@
+COMPLETE TEXT CLEANING STEPS (Beginner Friendly)
+
+We will do these steps:
+
+Lowercasing
+
+Remove numbers
+
+Remove punctuation
+
+Remove special characters
+
+Remove stopwords
+
+Lemmatization
+
+Remove extra spaces
+
